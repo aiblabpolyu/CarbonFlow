@@ -2,6 +2,10 @@
 
 A web-based carbon emission management system that helps enterprises analyze product design carbon emissions and optimize production processes.
 
+
+https://github.com/user-attachments/assets/743848e7-3860-4344-8944-83ad5dd8e236
+
+
 ## Features
 
 ### Core Functions
